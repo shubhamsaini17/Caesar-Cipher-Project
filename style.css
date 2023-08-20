@@ -19,6 +19,10 @@ h1 {
     letter-spacing: 5px;
     margin-bottom: 20px;
 }
+#key{
+  width: 80px;
+  height: 30px;
+}
 textarea {
     background-color: #ffffff;
     color: #2C3E50;
